@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me (The profile picture is my personal WeChat QR code, scannable with our paper FreeQR generated)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -39,7 +39,7 @@ You can view my complete published works on [Google Scholar](https://scholar.goo
 2. **Jun Jia**, Guangtao Zhai, Jiahe Zhang, Zhongpai Gao, Zehao Zhu, Xiongkuo Min, Xiaokang Yang, Guodong Guo, "EMBDN: An efficient multiclass barcode detection network for complicated environments," IEEE Internet of Things Journal, 2019.[paper](https://ieeexplore.ieee.org/document/8789638)
 3. Hanchi Sun, Xingdong Sheng, Jia Wang, **Jun Jia\*** "From gyroscope to pixels: Online video stabilization with physical insights," Displays, 2025.[paper](https://www.sciencedirect.com/science/article/pii/S014193822500126X)
 
-Representative Project
+Representative Projects
 ======
 1. 基于3D重建的正畸过程监控与风险预警，项目负责人，甲方：无锡时代天使，xxx万. **已验收交付**
 2. 口腔诊断机器人，技术团队负责人，甲方：为齿智能，xx万. **研发中**
