@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a postdoctoral fellow at Shanghai Jiao Tong University and am about to complete my postdoctoral research. In 2018, I obtained my bachelor's degree from Hunan University, and in September 2024, I received my doctoral degree from Shanghai Jiao Tong University. Both my doctoral supervisor and postdoctoral supervisor are Professor [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html). In addition, I also received meticulous guidance from Dr. [Zhongpai Gao](https://sites.google.com/site/gaozhongpai/home) during my doctoral studies.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests are focused on the field of multimedia security, specifically including camera-shooting resilient digital watermarking (my doctoral research topic), aesthetic QR codes, generative steganography, content security of diffusion models (personalized data traceability, personalized data authorization, and jailbreak defense), and content security of large language models (private data privacy protection and jailbreak defense).
+
+Beyond my research, I have a strong interest in engineering development and have accumulated rich experience in projects. These development experiences mainly include the field of streaming media, such as audio and video encoding and transmission based on FFmpeg and GStreamer, and embedded AI development, such as model compilation and deployment on mobile devices without GPU architecture (such as DSP). During my doctoral studies, I accumulated over 200,000 lines of C/C++ development experience (though these experiences have gradually become less significant with the evolution of LLMs). I hope to have the opportunity to turn my research content into engineering and productization in the future.
 
 A data-driven personal website
 ======
