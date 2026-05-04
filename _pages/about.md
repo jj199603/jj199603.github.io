@@ -13,16 +13,12 @@ My research interests are focused on the field of multimedia security, specifica
 
 Beyond my research, I have a strong interest in engineering development and have accumulated rich experience in projects. These development experiences mainly include the field of streaming media, such as audio and video encoding and transmission based on FFmpeg and GStreamer, and embedded AI development, such as model compilation and deployment on mobile devices without GPU architecture (such as DSP). During my doctoral studies, I accumulated over 200,000 lines of C/C++ development experience (though these experiences have gradually become less significant with the evolution of LLMs). I hope to have the opportunity to turn my research content into engineering and productization in the future.
 
-A data-driven personal website
+Representative papers
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+You can view my complete published works on [Google Scholar](https://scholar.google.com/citations?user=dGJXH9UAAAAJ&hl=zh-CN).
+1. **Jun Jia**, Hongyi Miao, Yingjie Zhou, Wangqiu Zhou, Jianbo Zhang, Linhan Cao, Dandan Zhu, Hua Yang,
+Xiongkuo Min, Wei Sun, Guangtao Zhai, "Adapter Shield: A unified framework with built-in authentication for preventing unauthorized zero-shot image-to-image generation," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.[link]()
+2. Xincheng Wang, Hanchi Sun, Wenjun Sun, Kejun Xue, Wangqiu Zhou, Jianbo Zhang, Wei Sun, Dandan Zhu, Xiongkuo Min, **Jun Jia\***(Corresponding author), **Zhijun Fang\***, "Evaluating dataset watermarking for fine-tuning traceability of customized diffusion models: A comprehensive benchmark and removal approach," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026.[link]()
 
 Getting started
 ======
