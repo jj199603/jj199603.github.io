@@ -16,19 +16,24 @@ Beyond my research, I have a strong interest in engineering development and have
 Representative papers (* Corresponding author)
 ======
 You can view my complete published works on [Google Scholar](https://scholar.google.com/citations?user=dGJXH9UAAAAJ&hl=zh-CN).
+
 **Content Security for Diffusion Models**
 1. **Jun Jia**, Hongyi Miao, Yingjie Zhou, Wangqiu Zhou, Jianbo Zhang, Linhan Cao, Dandan Zhu, Hua Yang, Xiongkuo Min, Wei Sun, Guangtao Zhai, "Adapter Shield: A unified framework with built-in authentication for preventing unauthorized zero-shot image-to-image generation," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.[link]()
 2. Xincheng Wang, Hanchi Sun, Wenjun Sun, Kejun Xue, Wangqiu Zhou, Jianbo Zhang, Wei Sun, Dandan Zhu, Xiongkuo Min, **Jun Jia\***, Zhijun Fang*, "Evaluating dataset watermarking for fine-tuning traceability of customized diffusion models: A comprehensive benchmark and removal approach," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026.[link]()
+
 **Camera-shooting Resilient Digital Watermarking**
 1. **Jun Jia**, Zhongpai Gao, Dandan Zhu, Xiongkuo Min, Guangtao Zhai, and Xiaokang Yang, "Learning invisible markers for hidden codes in offline-to-online photography," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 2. **Jun Jia**, Zhongpai Gao, Kang Chen, Menghan Hu, Xiongkuo Min, Guangtao Zhai, Xiaokang Yang, "RIHOOP: Robust invisible hyperlinks in offline and online photographs," IEEE Transactions on Cybernetics, 2020.
 3. **Jun Jia**, Zhongpai Gao, Dandan Zhu, Xiongkuo Min, Menghan Hu, Guangtao Zhai, "RIVIE: Robust inherent video information embedding," IEEE Transactions on Multimedia, 2022.
 4. **Jun Jia**, Zhongpai Gao, Yiwei Yang, Wei Sun, Dandan Zhu, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai, "Hidden barcode in sub-images with invisible locating marker," ACM Transactions on Multimedia Computing, Communications and Applications, 2020.
+
 **Aesthetic QR codes (an extension of Camera-shooting Resilient Digital Watermarking)**
 1. Yiwei Yang, **Jun Jia\***, Zheyuan Liu, Zhongpai Gao, Yunhao Li, Wei Sun, Guangtao Zhai*, "FreeQR: Free lunch for aesthetic QR code emerges from the latent space in diffusion models," IEEE Transactions on Multimedia, 2026.
+
 **Generative Steganography**
 1. Yiwei Yang, Zheyuan Liu, **Jun Jia\***, Zhongpai Gao, Yunhao Li, Wei Sun, Xiaohong Liu, Guangtao Zhai*, ”DiffStega: towards universal training-free coverless image steganography with diffusion models,” International Joint Conference on Artificial Intelligence, 2024.
 2. Zheyuan Liu, **Jun Jia\***, Hongyi Miao, Yiwei Yang, Yanwei Jiang, Yingjie Zhou, Zhi Liu, Guangtao Zhai*, "DiffDeid: High-quality face de-identification and recovery via diffusion inversion," IEEE International Conference on Multimedia and Expo (ICME), 2025.
+
 **Project-driven Paper**
 1. **Jun Jia**, Guangtao Zhai, Ping Ren, Jiahe Zhang, Zhongpai Gao, Xiongkuo Min, Xiaokang Yang, "Tiny-BDN: An efficient and compact barcode detection network," IEEE Journal of Selected Topics in Signal Processing, 2020.
 2. **Jun Jia**, Guangtao Zhai, Jiahe Zhang, Zhongpai Gao, Zehao Zhu, Xiongkuo Min, Xiaokang Yang, Guodong Guo, "EMBDN: An efficient multiclass barcode detection network for complicated environments," IEEE Internet of Things Journal, 2019.
