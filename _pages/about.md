@@ -32,7 +32,7 @@ You can view my complete published works on [Google Scholar](https://scholar.goo
 **Project-driven Paper**
 1. **Jun Jia**, Guangtao Zhai, Ping Ren, Jiahe Zhang, Zhongpai Gao, Xiongkuo Min, Xiaokang Yang, "Tiny-BDN: An efficient and compact barcode detection network," IEEE Journal of Selected Topics in Signal Processing, 2020.
 2. **Jun Jia**, Guangtao Zhai, Jiahe Zhang, Zhongpai Gao, Zehao Zhu, Xiongkuo Min, Xiaokang Yang, Guodong Guo, "EMBDN: An efficient multiclass barcode detection network for complicated environments," IEEE Internet of Things Journal, 2019.
-3. Hanchi Sun, Xingdong Sheng, **Jia Wang\***, **Jun Jia\*** "EMBDN: An efficient multiclass barcode detection network for complicated environments," IEEE Internet of Things Journal, 2019.
+3. Hanchi Sun, Xingdong Sheng, Jia Wang, **Jun Jia\*** "EMBDN: An efficient multiclass barcode detection network for complicated environments," IEEE Internet of Things Journal, 2019.
 
 Project
 ======
