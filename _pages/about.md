@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow at Shanghai Jiao Tong University and am about to complete my postdoctoral research. In 2018, I obtained my bachelor's degree from Hunan University, and in September 2024, I received my doctoral degree from Shanghai Jiao Tong University. Both my doctoral supervisor and postdoctoral supervisor are Professor [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html). In addition, I also received meticulous guidance from Dr. [Zhongpai Gao](https://sites.google.com/site/gaozhongpai/home) during my doctoral studies.
+I am currently a postdoctoral fellow at Shanghai Jiao Tong University and am about to complete my postdoctoral research. In 2018, I obtained my bachelor's degree from Hunan University, and in September 2024, I received my doctoral degree from Shanghai Jiao Tong University. Both my doctoral supervisor and postdoctoral supervisor are Professor [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html) (IEEE Fellow). In addition, I also received meticulous guidance from Dr. [Zhongpai Gao](https://sites.google.com/site/gaozhongpai/home) during my doctoral studies.
 
 My research interests are focused on the field of multimedia security, specifically including camera-shooting resilient digital watermarking (my doctoral research topic), aesthetic QR codes, generative steganography, content security of diffusion models (personalized data traceability, personalized data authorization, and jailbreak defense), and content security of large language models (private data privacy protection and jailbreak defense).
 
@@ -43,12 +43,12 @@ Representative Project
 ======
 1. 基于3D重建的正畸过程监控与风险预警，项目负责人，甲方：无锡时代天使，xxx万. **已验收交付**
 2. 口腔诊断机器人，技术团队负责人，甲方：为齿智能，xx万. **研发中**
-3. 面向泛在视频的感知质量评价仪器，负责样机软件的C++（FFmpeg）开发，国家自然科学基金重大仪器专项，负责人：杨小康教授，合作方：上海交通大学；北京大学；国家广播电视总局，xxx万. **结题**
-4. 基于微服务架构的4K超高清视频质量评价，负责质量评价算法的C++版本复现和插件封装，合作方：上海交通大学；国家广播电视总局，xxx万. **结题**
+3. 面向泛在视频的感知质量评价仪器，负责样机软件的C++（FFmpeg）开发，国家自然科学基金重大仪器专项，负责人：杨小康教授，合作方：上海交通大学；北京大学；国家广播电视总局，xxx万. **已结题**
+4. 基于微服务架构的4K超高清视频质量评价，负责质量评价算法的C++版本复现和插件封装，合作方：上海交通大学；国家广播电视总局；成都华栖云；中国传媒大学，xxx万. **已结题**
 5. 远程协作系统的视频通话和视频稳像，负责C语言（GStreamer）开发实现高帧率低延迟通话以及视频在线实时稳像，横向课题，甲方：联想集团（上海研究院），xxx万. **已验收交付**
 6. 基于雷达信号的低空无人机识别系统，负责算法与C++软件集成，甲方：xxxx雷达技术公司，xx万+xx万（分两期）. **已验收交付**
 7. 无人零售柜开发，负责二维码检测算法研发，甲方：上海了物网络，xx万. **已验收交付**
 8. 防伪码研发与商品防伪项目，负责防伪码研发，技术来源自论文TCYBER'20和CVPR'22，甲方：上海了物网络，xx万. **已验收交付**
 9. 甚高分遥感图像压缩与动态范围增强，负责开发图像压缩算法，甲方：xxxxxx研究所，xx万. **已验收交付**
 10. 电子后视镜自动标定，负责标定算法&TI板嵌入式编入部署，甲方：佛吉亚电子，xx万. **学了很多开发知识，遗憾的是能力有限没交付**
-11. 大视场连续变焦显微镜研制，参与拼接算法，国家自然科学基金重大仪器专项，负责人：王琼华教授，合作方：北京航空航天大学；四川大学；上海交通大学，xxx万. **凑数型参与，类似项目还掺和了很多，就不一一列了，欢迎对相关技术感兴趣或有需求的甲方爸爸私信我，扫网页头像即可加微信**
+11. 大视场连续变焦显微镜研制，参与拼接算法，国家自然科学基金重大仪器专项，负责人：王琼华教授，合作方：北京航空航天大学；四川大学；上海交通大学，xxx万. **已结题，凑数型参与，类似项目还掺和了很多，就不一一列了，欢迎对相关技术感兴趣或有需求的甲方爸爸私信我，扫网页头像即可加微信**
