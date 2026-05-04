@@ -13,7 +13,7 @@ My research interests are focused on the field of multimedia security, specifica
 
 Beyond my research, I have a strong interest in engineering development and have accumulated rich experience in projects. These development experiences mainly include the field of streaming media, such as audio and video encoding and transmission based on FFmpeg and GStreamer, and embedded AI development, such as model compilation and deployment on mobile devices without GPU architecture (such as DSP). During my doctoral studies, I accumulated over 200,000 lines of C/C++ development experience (though these experiences have gradually become less significant with the evolution of LLMs). I hope to have the opportunity to turn my research content into engineering and productization in the future.
 
-Representative papers (* Corresponding author)
+Representative Papers (* corresponding author)
 ======
 You can view my complete published works on [Google Scholar](https://scholar.google.com/citations?user=dGJXH9UAAAAJ&hl=zh-CN).
 
