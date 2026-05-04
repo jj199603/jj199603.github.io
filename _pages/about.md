@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**The profile picture is my personal WeChat QR code, scannable with our paper FreeQR (TMM'22) generated**
+**The profile picture is my personal WeChat QR code, scannable with our paper FreeQR (TMM'26) generated**
 
 I am currently a postdoctoral fellow at Shanghai Jiao Tong University and am about to complete my postdoctoral research. In 2018, I obtained my bachelor's degree from Hunan University, and in September 2024, I received my doctoral degree from Shanghai Jiao Tong University. Both my doctoral supervisor and postdoctoral supervisor are Professor [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html) (IEEE Fellow). In addition, I also received meticulous guidance from Dr. [Zhongpai Gao](https://sites.google.com/site/gaozhongpai/home) during my doctoral studies.
 
